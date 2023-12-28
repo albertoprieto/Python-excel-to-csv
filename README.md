@@ -18,4 +18,4 @@ Este script de Python proporciona una herramienta simple con interfaz gráfica p
 ## Uso
 
 ```bash
-python excel_converter.py
+python main.py
