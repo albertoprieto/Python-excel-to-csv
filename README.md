@@ -12,10 +12,10 @@ Este script de Python proporciona una herramienta simple con interfaz gráfica p
 ## Dependencias
 
 - Python 3.x
-- Pandas
-- Tkinter
 
 ## Uso
 
 ```bash
-python excel_converter.py
+pip install -r requirements.txt
+python main.py
+```
